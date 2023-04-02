@@ -1,0 +1,12 @@
+This is the details file.
+This is the file to be encrypted for nomem application.
+the details here are new.
+ajdnciobvuoybeiuyvbodfhjvnoijdv
+adwfnoauevouenvojdsncinijsnciosn
+
+1.Account:Facebook
+    Username:Nigoos
+    Version number:3
+2.Account:Google
+    Username : nigoos@gmail.com
+    Version number:38
